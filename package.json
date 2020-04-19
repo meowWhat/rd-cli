@@ -1,9 +1,9 @@
 {
   "name": "redark-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "redark 组件库脚手架工具",
   "main": "index.js",
-  "repository": "https://github.com/meowWhat/ReDark",
+  "repository": "https://github.com/meowWhat/redark-cli",
   "author": "cjh",
   "license": "MIT",
   "private": false,
