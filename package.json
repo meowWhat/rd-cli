@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "bin": {
-    "rd": "./bin/www"
+    "redark-cli": "./bin/www"
   },
   "dependencies": {
     "@types/node": "^13.13.0",

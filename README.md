@@ -5,14 +5,15 @@ redark 脚手架工具
 # 下载源码使用
 
 ```bash
+ yarn
 
  yarn link
 
- rd create demo
+ redark-cli create demo
 
  cd demo
 
- yarn add
+ yarn
 
  yarn start
 
@@ -22,13 +23,13 @@ redark 脚手架工具
 
 ```bash
 
-yarn add global  redark-cli
+yarn  global  add redark-cli
 
 rd create demo
 
 cd demo
 
-yarn add
+yarn
 
 yarn start
 
