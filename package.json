@@ -1,6 +1,6 @@
 {
   "name": "redark-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "redark 组件库脚手架工具",
   "main": "index.js",
   "repository": "https://github.com/meowWhat/ReDark",
