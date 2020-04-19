@@ -1,5 +1,5 @@
 {
-  "name": "rd-cli",
+  "name": "redark-cli",
   "version": "1.0.0",
   "description": "redark 组件库脚手架工具",
   "main": "index.js",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "bin": {
-    "rd-cli": "./bin/www"
+    "rd": "./bin/www"
   },
   "dependencies": {
     "@types/node": "^13.13.0",
