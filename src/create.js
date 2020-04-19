@@ -108,7 +108,7 @@ module.exports = async (projectName) => {
      
        1:   cd  ./${projectName} 
          
-       2:   yarn add   || npm install
+       2:   yarn    || npm install
 
        3:   yarn start  ||  npm run start
      
