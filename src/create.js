@@ -113,7 +113,7 @@ module.exports = async (projectName) => {
        3:   yarn start  ||  npm run start
      
        
-       更多功能请参考redark官网:http://jiahao.site/'  
+       更多功能请参考redark官网:http://www.jiahao.site/'  
     `)
   }
 }
